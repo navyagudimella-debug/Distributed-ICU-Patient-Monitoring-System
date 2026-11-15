@@ -1,0 +1,19 @@
+# Keil generated files
+*.axf
+*.hex
+*.elf
+*.o
+*.obj
+*.lst
+*.map
+*.htm
+*.bak
+*.uvguix.*
+*.uvopt
+*.uvgui
+*.dep
+
+# Temporary files
+*.swp
+*.swo
+*~
